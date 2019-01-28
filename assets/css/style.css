@@ -249,14 +249,14 @@ html {
 /* =-=--=-=-=-=-=-==-=-=-=-  2.3 Header   =-=-=-=-==-=-==-====-==-=- */
 
 #about-page .page-head {
-	background: url(../img/about-bg.jpg);
+	background: url("../img/slim-bg.jpg");
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
 }
 
 #service-page .page-head {
-	background: url(../img/services-bg.jpg);
+	background: url("../img/slim-bg.jpg");
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
@@ -270,7 +270,7 @@ html {
 }
 
 #gallery-page .page-head {
-	background: url(../img/gallery-bg.jpg);
+	background: url("../img/slim-bg.jpg");
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
@@ -278,7 +278,7 @@ html {
 
 #multiple-blog-page .page-head,
 #multiple-blog-left-sidebar .page-head {
-	background: url(../img/multiple_blog-bg.jpg);
+	background: url("../img/slim-bg.jpg");
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
@@ -287,14 +287,14 @@ html {
 #single-blog-page .page-head,
 #single-blog-left-sidebar .page-head,
 #single-blog-full-width .page-head {
-	background: url(../img/single_blog-bg.jpg);
+	background: url("../img/slim-bg.jpg");
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
 }
 
 #contact-page .page-head {
-	background: url(../img/contact-bg.png);
+	background: url("../img/slim-bg.jpg");
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
